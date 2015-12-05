@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Software Engineering Code of Ethics and Professional Practice
+category: Note
 ---
 
 ## 软件工程师职业道德规范和标准

@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: 屏蔽非法域名访问
+category: Nginx
 ---
 
 ## Nginx屏蔽非法域名访问

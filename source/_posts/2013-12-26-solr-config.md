@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: 使用Jetty环境配置Solr和中文分词
+category: Solr
 ---
 
 1. Java环境  

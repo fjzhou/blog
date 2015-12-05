@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: Outlook的客户端配置参数
+catgory: Note
 ---
 
 Exchange ActiveSync协议配置：<br />

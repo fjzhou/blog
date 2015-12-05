@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: 配置双机SolrCloud
+category: Solr
 ---
 
 0. 物理环境：两台服务器，CentOS，分别是10.0.2.4和10.0.2.6。已经安装了Jetty和Solr。  

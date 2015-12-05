@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: 开源协议整理
+category: Note
 ---
 
 使用开源软件的几个方式：  

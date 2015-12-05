@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: HTML5下使用JS访问设备姿态
+category: JavaScript
 ---
 
 手机和平板上拥有陀螺仪和加速计等很好玩的传感器。因此可以获得设备当前的运动加速度和姿态。
