@@ -27,11 +27,11 @@ Software Developer
 
 ## Skills
 
-* Familar with developing based .NET framework
-* Familar with MS SQL Server
-* Familar with HTML/Javascript
-* Familar with Linux environment
-* Familar with iOS developement
+* Familiar with developing based .NET framework
+* Familiar with MS SQL Server
+* Familiar with HTML/Javascript
+* Familiar with Linux environment
+* Familiar with iOS developement
 
 ## Experience
 
