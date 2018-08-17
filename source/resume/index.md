@@ -30,22 +30,22 @@ layout: page
 
 ## 技能
 
-* 熟悉.NET平台开发工作，Visual Studio
-* 熟悉MS SQL Server数据库
-* 熟悉HTML/JavaScript前端开发
-* 熟悉Linux平台
-* iOS开发，Xcode
+* 熟悉.NET平台开发工作，Visual Studio, IIS
+* 熟悉 MS SQL Server 数据库
+* 熟悉 HTML/JavaScript 前端开发
+* 熟悉 Linux 平台
+* iOS 开发，Xcode
 
 ## 工作经验
 
 * 2011年2月-至今：宁波公众信息产业有限公司(东方热线cnool.net)
 
-负责开发东方热线网站产品
+担任 Tech Leader，负责开发东方热线网站和相关产品线。
 
 * 2010年7月-2011年2月：上海盛大网络(SNDA：SDO)
 
-盛大在线支付服务部负责盛大第三方支付产品的开发，盛付通开发工作
+在盛大在线支付服务部负责盛大第三方支付产品的开发，盛付通开发工作
 
-* 2008年8月-2010年7月：上海高知特信息技术有限公司(Cognizant)
+* 2008年8月-2010年7月：上海高知特(Cognizant)信息技术有限公司
 
 在中国研发中心负责.NET方向项目的开发工作

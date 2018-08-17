@@ -37,7 +37,7 @@ Software Developer
 
 * Feb-2011~Current：Ningbo Public IT Services Ltd. (cnool.net)
 
-Responsible to develop cnool.net website and related products
+As tech leader，responsible to develop cnool.net website and related products
 
 * July-2010~Feb-2011：Shanghai SNDA (SNDA：SDO)
 
