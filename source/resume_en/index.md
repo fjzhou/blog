@@ -27,11 +27,11 @@ Software Developer
 
 ## Skills
 
-* Familiar with developing based .NET framework
-* Familiar with MS SQL Server
-* Familiar with HTML/Javascript
+* Familiar with .NET framework and .NET Core
+* Familiar with MS SQL Server and PostgreSQL
+* Familiar with front end dev, HTML / Javascript
 * Familiar with Linux environment
-* Familiar with iOS developement
+* Familiar with iOS developement and Objective-C
 
 ## Experience
 

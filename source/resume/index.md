@@ -30,11 +30,11 @@ layout: page
 
 ## 技能
 
-* 熟悉.NET平台开发工作，Visual Studio, IIS
-* 熟悉 MS SQL Server 数据库
-* 熟悉 HTML/JavaScript 前端开发
+* 熟悉 .NET / .NET Core
+* 熟悉 MS SQL Server / PostgreSQL 数据库
+* 熟悉 HTML / JavaScript 前端开发
 * 熟悉 Linux 平台
-* iOS 开发，Xcode
+* iOS 开发，Objective-C
 
 ## 工作经验
 
